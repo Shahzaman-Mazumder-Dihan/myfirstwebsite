@@ -1,3 +1,9 @@
+div{
+    background-color: rgb(110, 207, 118);
+    margin: 20px;
+    width: 50%;
+}
 p{
-    background-color: aqua;
+color: bisque;
+background-color: rgb(37, 37, 37);
 }
