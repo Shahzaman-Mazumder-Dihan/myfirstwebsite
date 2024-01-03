@@ -1,9 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
 div{
     background-color: rgb(110, 207, 118);
     margin: 20px;
     width: 50%;
+  
 }
 p{
 color: bisque;
 background-color: rgb(37, 37, 37);
+}
+#imgdiv{
+    margin: 20px;
+    width: 98%;
+
+background-color:transparent;
+
+
+
+}
+img{
+
+width: 48%;
+background-color: blanchedalmond;
+
 }
